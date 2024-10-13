@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 [![shashemi's 42 stats](https://badge.mediaplus.ma/greenbinary/shashemi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
