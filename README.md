@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/shashemi?1337Badge=off&UM6P=off" alt="shashemi's 42 stats" /></a>
+[![shashemi's 42 stats](https://badge.mediaplus.ma/greenbinary/shashemi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
