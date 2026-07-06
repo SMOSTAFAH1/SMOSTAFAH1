@@ -94,11 +94,6 @@ class Developer:
   </table>
 </div>
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMOSTAFAH1&theme=github-compact&bg_color=0d1117&color=00ff87&line=00ff87&point=ffffff&area=true&hide_border=true" />
-</div>
-
 ## 🐱‍💻 Fun Fact
 
 <div align="center">
