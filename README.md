@@ -78,13 +78,3 @@ class Developer:
   <em>"Code is like humor. When you have to explain it, it's bad." - But good vibes make everything better! 😎</em>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SMOSTAFAH1&label=Profile%20Views&color=00ff87&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SMOSTAFAH1?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
-<div align="center">
-  <i>⭐️ From SMOSTAFAH1 with good vibes and lots of caffeine ☕</i>
-</div>
