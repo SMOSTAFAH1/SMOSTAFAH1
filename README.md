@@ -70,30 +70,6 @@ class Developer:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMOSTAFAH1&theme=dark&background=0D1117&border=00FF87&stroke=00FF87&ring=00FF87&fire=FFD700&currStreakLabel=00FF87" alt="GitHub Streak Stats"/>
 </div>
 
-## 🎯 Current Focus Areas
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-        <br><strong>AI Automation</strong>
-        <br>Building intelligent agents that actually solve real problems, not just chatbots
-      </td>
-      <td align="center" width="200">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-        <br><strong>Cybersecurity</strong>
-        <br>Security testing, vulnerability research, and penetration testing
-      </td>
-      <td align="center" width="200">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-        <br><strong>Game Dev</strong>
-        <br>Creating immersive experiences with Unity and custom game mechanics
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🐱‍💻 Fun Fact
 
 <div align="center">
