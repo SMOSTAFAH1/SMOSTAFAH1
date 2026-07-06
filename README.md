@@ -94,15 +94,6 @@ class Developer:
   </table>
 </div>
 
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smostafah)
-[![42 Profile](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/shashemi)
-
-</div>
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMOSTAFAH1&theme=github-compact&bg_color=0d1117&color=00ff87&line=00ff87&point=ffffff&area=true&hide_border=true" />
