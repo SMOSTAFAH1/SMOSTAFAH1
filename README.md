@@ -70,11 +70,6 @@ class Developer:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMOSTAFAH1&theme=dark&background=0D1117&border=00FF87&stroke=00FF87&ring=00FF87&fire=FFD700&currStreakLabel=00FF87" alt="GitHub Streak Stats"/>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SMOSTAFAH1&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" />
-</div>
-
 ## 🎯 Current Focus Areas
 
 <div align="center">
