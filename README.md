@@ -10,25 +10,14 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Seyed Mostafa Hashemian"
-        self.role = "Computer Science Engineer"
-        self.education = ["UPM - Universidad Politécnica de Madrid", "42 Madrid"]
-        self.passions = ["Artificial Intelligence", "Cybersecurity", "Process Automation"]
-        self.current_focus = "AI Agents & Security Testing"
-        self.future_goals = ["Cybersecurity Master's", "Content Creation"]
-        self.vibe = "Good vibes coder 😎"
-    
-    def current_projects(self):
-        return [
-            "🎮 Unity Game Development",
-            "🌐 Personal Website",
-            "🤖 AI-powered Tools",
-            "🔒 Security Research"
-        ]
-```
+👋 Hi there! I'm **Seyed Mostafa Hashemian**, a Computer Science Engineer passionate about building efficient software and leveraging AI to automate the world.
+
+* 🎓 **Education**: Studying at **UPM (Universidad Politécnica de Madrid)** and **42 Madrid**.
+* 🤖 **Current Focus**: Artificial Intelligence & Process Automation. I specialize in building smart agents, custom bots, and tools that solve real-world problems.
+* 🔒 **Future Goals**: Plan to pursue a Master's degree in Cybersecurity to merge protection with intelligent automation.
+* 🛠️ **Current Projects**:
+  * 🤖 **AI-Powered Tools & Bots**: Developing intelligent systems and bots that integrate LLMs to streamline workflows.
+  * ⚙️ **Process Optimization**: Creating custom scripts and automation workflows to eliminate repetitive tasks.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
