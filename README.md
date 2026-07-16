@@ -1,7 +1,7 @@
 # 👨‍💻 Seyed Mostafa Hashemian | SMOSTAFAH1
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineer;AI+%26+Cybersecurity+Enthusiast;Process+Optimization+Developer;Future+Content+Creator;Good+Vibes+Coder+%F0%9F%98%8E&font=Fira%20Code&center=true&width=440&height=45&color=00FF87&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineer;AI+%26+Automation+Developer;Process+Optimization+Specialist;Good+Vibes+Coder+%F0%9F%98%8E&font=Fira%20Code&center=true&width=440&height=45&color=00FF87&vCenter=true&size=22&pause=1000" />
 </div>
 
 <div align="center">
@@ -19,9 +19,6 @@
   * 🤖 **AI-Powered Tools & Bots**: Developing intelligent systems and bots that integrate LLMs to streamline workflows.
   * ⚙️ **Process Optimization**: Creating custom scripts and automation workflows to eliminate repetitive tasks.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
 ## 💻 Tech Stack & Tools
 
