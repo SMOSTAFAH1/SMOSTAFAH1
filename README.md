@@ -59,17 +59,6 @@ class Developer:
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SMOSTAFAH1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00FF87&title_color=00FF87&icon_color=00FF87"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMOSTAFAH1&layout=compact&langs_count=8&theme=github_dark&border_color=00FF87&title_color=00FF87"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMOSTAFAH1&theme=dark&background=0D1117&border=00FF87&stroke=00FF87&ring=00FF87&fire=FFD700&currStreakLabel=00FF87" alt="GitHub Streak Stats"/>
-</div>
-
 ## 🐱‍💻 Fun Fact
 
 <div align="center">
