@@ -1,7 +1,7 @@
 # 👨‍💻 Seyed Mostafa Hashemian | SMOSTAFAH1
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineer;AI+%26+Automation+Developer;Process+Optimization+Specialist;Good+Vibes+Coder+%F0%9F%98%8E&font=Fira%20Code&center=true&width=440&height=45&color=00FF87&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;AI+%26+Automation+Developer;Process+Optimization+Specialist;Good+Vibes+Coder+%F0%9F%98%8E&font=Fira%20Code&center=true&width=440&height=45&color=00FF87&vCenter=true&size=22&pause=1000" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-👋 Hi there! I'm **Seyed Mostafa Hashemian**, a Computer Science Engineer passionate about building efficient software and leveraging AI to automate the world.
+👋 Hi there! I'm **Seyed Mostafa Hashemian**, a Computer Engineer passionate about building efficient software and leveraging AI to automate the world.
 
 * 🎓 **Education**: Studying at **UPM (Universidad Politécnica de Madrid)** and **42 Madrid**.
 * 🤖 **Current Focus**: Artificial Intelligence & Process Automation. I specialize in building smart agents, custom bots, and tools that solve real-world problems.
