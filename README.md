@@ -1,7 +1,7 @@
 # Seyed Mostafa Hashemian | SMOSTAFAH1
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;AI+%26+Automation+Developer;Process+Optimization+Specialist;Good+Vibes+Coder&font=Fira%20Code&center=true&width=440&height=45&color=00FF87&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;AI+%26+Automation+Developer;Process+Optimization+Specialist;Good+Vibes+Coder+%F0%9F%98%8E&font=Fira%20Code&center=true&width=440&height=45&color=00FF87&vCenter=true&size=22&pause=1000" />
 </div>
 
 <div align="center">
