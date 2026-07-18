@@ -43,3 +43,11 @@ Hi there! I'm **Seyed Mostafa Hashemian**, a Computer Engineer passionate about 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMOSTAFAH1/SMOSTAFAH1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMOSTAFAH1/SMOSTAFAH1/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Grid Snake" src="https://raw.githubusercontent.com/SMOSTAFAH1/SMOSTAFAH1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
