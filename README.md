@@ -43,4 +43,3 @@ Hi there! I'm **Seyed Mostafa Hashemian**, a Computer Engineer passionate about 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
