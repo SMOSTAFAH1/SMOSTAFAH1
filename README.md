@@ -44,11 +44,3 @@ Hi there! I'm **Seyed Mostafa Hashemian**, a Computer Engineer passionate about 
 
 </div>
 
-## Fun Fact
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
-  <br>
-  <em>"Code is like humor. When you have to explain it, it's bad." - But good vibes make everything better!</em>
-</div>
-
