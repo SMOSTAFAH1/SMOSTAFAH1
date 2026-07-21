@@ -13,7 +13,7 @@
 Hi there! I'm **Seyed Mostafa Hashemian**, a Computer Engineer passionate about building efficient software and leveraging AI to automate the world.
 
 * **Education**: Studying at **UPM (Universidad Politécnica de Madrid)** and **42 Madrid**.
-* **Current Focus**: Artificial Intelligence & Process Automation. I specialize in building smart agents, custom bots, and tools that solve real-world problems.
+* **Current Focus**: Artificial Intelligence & Process Automation. I specialize in building smart systems/agents, custom bots, and tools that solve real-world problems.
 * **Future Goals**: Plan to pursue a Master's degree in Cybersecurity to merge protection with intelligent automation.
 * **Current Projects**:
   * **AI-Powered Tools & Bots**: Developing intelligent systems and bots that integrate LLMs to streamline workflows.
@@ -50,4 +50,4 @@ Hi there! I'm **Seyed Mostafa Hashemian**, a Computer Engineer passionate about 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMOSTAFAH1/SMOSTAFAH1/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Grid Snake" src="https://raw.githubusercontent.com/SMOSTAFAH1/SMOSTAFAH1/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div>
